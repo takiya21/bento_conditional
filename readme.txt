@@ -1,0 +1,3 @@
+attribute_dfにはテストデータに対する属性情報
+memo.ipynb チューニング比較
+see_score.ipynb 属性情報ありなしの結果計算
